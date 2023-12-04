@@ -1,0 +1,9 @@
+name: MyMMORPG
+version: '${project.version}'
+main: me.dane.mymmorpg.MyMMORPG
+api-version: '1.20'
+authors: [Dane]
+
+commands:
+  party:
+    description: 關於隊伍相關使用
